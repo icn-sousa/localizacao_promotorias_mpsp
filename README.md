@@ -13,7 +13,7 @@ O [programa](https://github.com/icn-sousa/promotorias_mpsp/blob/a3dc97c2ca6e5ef3
 
 A extração desses dados visa facilitar o acesso à informação e viabilizar análises sobre a distribuição das Promotorias Cíveis no Estado de São Paulo.
 
-Os [dados extraídos](https://github.com/icn-sousa/promotorias_mpsp/blob/a3dc97c2ca6e5ef39019ec0b9b8beb41fdbbf0b8/coordenadas_promotorias_mpsp.csv), salvos em um arquivo no formato CSV, podem ser utilizados no *software* QGIS (Adicionar Camada de Texto Delimitado).
+Os [dados extraídos](https://github.com/icn-sousa/promotorias_mpsp/blob/a3dc97c2ca6e5ef39019ec0b9b8beb41fdbbf0b8/coordenadas_promotorias_mpsp.csv), salvos em um arquivo no formato CSV, podem ser utilizados no *software* [QGIS](https://www.qgis.org/) (Adicionar Camada de Texto Delimitado).
 
 ### **Licença**
 
