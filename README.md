@@ -4,7 +4,7 @@ Este projeto possibilita a extração de informações das 340 Promotorias Cíve
 
 ### **Descrição**
 
-O [programa](https://github.com/icn-sousa/promotorias_mpsp/blob/a3dc97c2ca6e5ef39019ec0b9b8beb41fdbbf0b8/promotorias_mpsp.ipynb) realiza a coleta dos seguintes dados:
+O [programa](https://github.com/icn-sousa/localizacao_promotorias_mpsp/blob/d4dda8a481065bc5a7b345b9db3c5c5fcfefc40f/promotorias_mpsp.ipynb) realiza a coleta dos seguintes dados:
 
 - **Nomes das Promotorias**: Captura os nomes oficiais de cada uma das Promotorias.
 - **Coordenadas Geográficas**: Obtém a latitude e a longitude correspondentes a cada Promotoria.
@@ -13,7 +13,7 @@ O [programa](https://github.com/icn-sousa/promotorias_mpsp/blob/a3dc97c2ca6e5ef3
 
 A extração desses dados visa facilitar o acesso à informação e viabilizar análises sobre a distribuição das Promotorias Cíveis no Estado de São Paulo.
 
-Os [dados extraídos](https://github.com/icn-sousa/promotorias_mpsp/blob/a3dc97c2ca6e5ef39019ec0b9b8beb41fdbbf0b8/coordenadas_promotorias_mpsp.csv), salvos em um arquivo no formato CSV, podem ser utilizados no *software* [QGIS](https://www.qgis.org/) (Adicionar Camada de Texto Delimitado).
+Os [dados extraídos](https://github.com/icn-sousa/localizacao_promotorias_mpsp/blob/d4dda8a481065bc5a7b345b9db3c5c5fcfefc40f/coordenadas_promotorias_mpsp.csv), salvos em um arquivo no formato CSV, podem ser utilizados no *software* [QGIS](https://www.qgis.org/) (Adicionar Camada de Texto Delimitado).
 
 ### **Licença**
 
